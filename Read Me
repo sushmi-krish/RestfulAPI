@@ -1,0 +1,4 @@
+#Create an express server and with API end points
+#Retrieve data, stored in the MongoDB, through API end points
+#Add data through POST end points
+#Necessary node Package manager  are  mongoose,express,body-parser,Cors
